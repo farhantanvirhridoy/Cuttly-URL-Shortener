@@ -1,0 +1,5 @@
+urllib
+requests
+json
+sqlite3
+tabulate
